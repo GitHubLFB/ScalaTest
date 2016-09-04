@@ -1,0 +1,11 @@
+object HelloScala2 extends App {
+  override def main(args: Array[String]): Unit = {
+    println("Hello Scala")
+  }
+}
+
+object HelloScala {
+  def print():Unit={
+    println("I love scala");
+  }
+}
